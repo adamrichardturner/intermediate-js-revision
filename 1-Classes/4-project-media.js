@@ -97,7 +97,7 @@ const historyOfEverything = new Book(
 )
 historyOfEverything.toggleCheckOutStatus() // isCheckedOut is now true
 console.log(historyOfEverything.isCheckedOut) // true
-historyOfEverything.addRating(4) // adds rating to the ratings array
+historyOfEverything.addRating(4) // adds ratings to the ratings array
 historyOfEverything.addRating(5)
 historyOfEverything.addRating(5)
 console.log(historyOfEverything.getAverageRating()) // Gets the average ratings
