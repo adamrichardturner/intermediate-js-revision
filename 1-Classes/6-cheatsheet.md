@@ -4,7 +4,7 @@
 
 1. **Class**: Blueprint for creating objects.
 2. **Object**: Instance of a class.
-3. **Inheritance**: One class inherits properties and methods from another 4. class.
+3. **Inheritance**: One class inherits properties and methods from another class.
 4. **Polymorphism**: One interface for many data types or functions.
 5. **Encapsulation**: Bundling data and methods that operate on that data into a single unit.
 6. **Abstraction**: Simplifying complex systems by breaking them into smaller, more manageable parts.
