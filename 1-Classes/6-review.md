@@ -1,6 +1,0 @@
-- Classes are templates for [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects).
-- Javascript calls a *constructor* method when we create a new instance of a class.
-- *Inheritance* is when we create a parent class with properties and methods. See this guide on [inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) that we can extend to child classes.
-- We use the `extends` keyword to create a subclass that inherits parent properties and methods.
-- The `super` keyword calls the `constructor()` of a parent class.
-- Static methods are called on the class, but not on instances of the class.
