@@ -19,6 +19,7 @@ class Animal {
 
 class Cat extends Animal {
   // Constructor contains all the arguments when the class is instantiated
+  // usesLitter is unique to Cat
   constructor(name, usesLitter) {
     // Super calls the parent constructor and assigns its properties to the subclass
     super(name)
